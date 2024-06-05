@@ -1,0 +1,12 @@
+{
+    "name": "POWERTAG Script",
+    "version": "1.0",
+    "slug": "powertag_script",
+    "description": "An add-on to run MQTT script for powertags continuously",
+    "arch": ["aarch64", "amd64", "armv7", "i386"],
+    "startup": "services",
+    "boot": "auto",
+    "options": {},
+    "schema": {},
+    "host_network": true
+}
